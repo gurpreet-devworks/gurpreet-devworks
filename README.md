@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Gurpreet Kaur
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning GCP and tailwind
+- 💞️ I’m looking to collaborate on anything for React or anything in CSS
+- 📫 How to reach me gurpreetmultani.com
+- ⚡ Fun fact: I love gardening, getting hold of soil understanding, and propagating succulents.
